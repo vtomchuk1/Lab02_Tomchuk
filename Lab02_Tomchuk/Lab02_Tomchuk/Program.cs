@@ -16,7 +16,7 @@ namespace Lab02_Tomchuk
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Lab02_Tomchuk());
         }
     }
 }
